@@ -1,0 +1,14 @@
+.mapDiv {
+  height: 90%;
+  width: 100%;
+}
+
+.mainContainer {
+  height: 100vh;
+}
+
+#crazyFloatyBoy {
+  position: relative;
+  bottom: 4rem;
+  left: 1rem;
+}
